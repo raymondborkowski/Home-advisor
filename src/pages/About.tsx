@@ -176,7 +176,7 @@ export default function About() {
             Your home deserves better than guesswork.
           </h2>
           <p className="text-brand-100 text-lg mb-8 max-w-xl mx-auto">
-            Get set up in 15 minutes. See the difference in your first month.
+            Onboarding takes about an hour. See the difference in your first month.
           </p>
           <Button to="/get-started" variant="secondary" size="lg">
             Get Started

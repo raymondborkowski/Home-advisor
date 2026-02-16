@@ -335,12 +335,12 @@ export default function Home() {
           {[
             {
               step: '01',
-              title: 'Quick setup call',
-              desc: 'We learn about your home, your priorities, and any nagging issues. Takes about 15 minutes.',
+              title: 'Custom onboarding',
+              desc: 'We walk you through a personalized photo checklist for your home. Snap photos of your equipment and systems — we handle the rest. Takes about an hour.',
             },
             {
               step: '02',
-              title: 'We create your plan',
+              title: 'We build your plan',
               desc: 'Within a week you\u2019ll have a customized maintenance calendar and your Home Binder started.',
             },
             {
@@ -368,7 +368,7 @@ export default function Home() {
 
         <div className="text-center">
           <Button to="/get-started" variant="primary" size="lg">
-            Book Your Setup Call
+            Start Your Onboarding
           </Button>
         </div>
       </Section>
