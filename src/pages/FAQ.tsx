@@ -158,7 +158,7 @@ export default function FAQ() {
             Ready to get started?
           </h2>
           <p className="text-brand-100 text-lg mb-8 max-w-xl mx-auto">
-            15 minutes to set up. No contracts. Cancel anytime.
+            Onboarding takes about an hour. No contracts. Cancel anytime.
           </p>
           <Button to="/get-started" variant="secondary" size="lg">
             Get Started

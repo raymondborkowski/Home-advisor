@@ -139,7 +139,7 @@ export default function GetStarted() {
         <div className="max-w-3xl mx-auto text-center pt-16 pb-8 md:pt-24 md:pb-12">
           <h1 className="font-serif text-4xl md:text-5xl lg:text-6xl font-bold text-gray-900 mb-6 leading-tight">
             Get set up in
-            <span className="text-brand-600"> 15 minutes.</span>
+            <span className="text-brand-600"> about an hour.</span>
           </h1>
           <p className="text-lg md:text-xl text-gray-600 max-w-2xl mx-auto leading-relaxed">
             Four simple steps to hand off the home management. No contracts, no
@@ -219,7 +219,7 @@ export default function GetStarted() {
 
                 <div className="grid grid-cols-1 sm:grid-cols-2 gap-3 mb-8">
                   {[
-                    'Dedicated home manager',
+                    'Dedicated home advisor',
                     'Vendor coordination',
                     'Quote comparison',
                     'Home Binder (included)',

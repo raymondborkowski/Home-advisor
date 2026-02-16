@@ -241,7 +241,7 @@ export default function WhatWeHandle() {
             Ready to hand off the home stuff?
           </h2>
           <p className="text-brand-100 text-lg mb-8 max-w-xl mx-auto">
-            Get started in 15 minutes. No contracts. Cancel anytime.
+            Onboarding takes about an hour. No contracts. Cancel anytime.
           </p>
           <Button to="/get-started" variant="secondary" size="lg">
             Get Started

@@ -522,7 +522,7 @@ export default function HowItWorks() {
           </h2>
           <p className="text-gray-600 text-lg leading-relaxed mb-10">
             Pick the plan that fits your household and let HomeOps handle the
-            rest. Setup takes about 15 minutes.
+            rest. Onboarding takes about an hour.
           </p>
           <Button to="/pricing" variant="primary" size="lg">
             View pricing

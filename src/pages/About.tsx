@@ -119,7 +119,7 @@ export default function About() {
           </h2>
           <div className="prose prose-lg max-w-none text-gray-600 leading-relaxed space-y-4">
             <p>
-              HomeOps gives you a dedicated home manager who knows your home, your
+              HomeOps gives you a dedicated home advisor that knows your home, your
               systems, your vendors, and your preferences. We don't just respond to
               problems — we anticipate them. We don't just schedule work — we
               document it, follow up on it, and make sure it's done right.
@@ -176,7 +176,7 @@ export default function About() {
             Your home deserves better than guesswork.
           </h2>
           <p className="text-brand-100 text-lg mb-8 max-w-xl mx-auto">
-            Get set up in 15 minutes. See the difference in your first month.
+            Onboarding takes about an hour. See the difference in your first month.
           </p>
           <Button to="/get-started" variant="secondary" size="lg">
             Get Started
