@@ -5,13 +5,8 @@ import {
   BookCheck,
   ArrowRight,
   CheckCircle2,
-  Timer,
-  AlertTriangle,
-  FileText,
-  Home,
 } from 'lucide-react';
 import Section from '../components/Section';
-import SectionHeading from '../components/SectionHeading';
 import Button from '../components/Button';
 
 const calculators = [
@@ -169,7 +164,7 @@ export default function Value() {
 
               <div className={`bg-white rounded-2xl border ${colors.border} shadow-sm overflow-hidden`}>
                 <div className="divide-y divide-gray-100">
-                  {calc.stats.map((stat, si) => (
+                  {calc.stats.map((stat) => (
                     <div
                       key={stat.label}
                       className="flex items-center justify-between px-6 py-4"

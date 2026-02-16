@@ -1,7 +1,6 @@
 import { useState } from 'react';
 import { ChevronDown, MessageCircleQuestion } from 'lucide-react';
 import Section from '../components/Section';
-import SectionHeading from '../components/SectionHeading';
 import Button from '../components/Button';
 
 const faqs = [

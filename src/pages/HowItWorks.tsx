@@ -18,7 +18,6 @@ import {
   Receipt,
   FolderOpen,
   Sparkles,
-  ChevronRight,
 } from 'lucide-react'
 import Section from '../components/Section'
 import Button from '../components/Button'
