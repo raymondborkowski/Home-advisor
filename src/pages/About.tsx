@@ -3,7 +3,6 @@ import {
   Clock,
   FileCheck,
   ShieldCheck,
-  ArrowRight,
   Heart,
   Target,
   Users,

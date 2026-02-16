@@ -3,7 +3,6 @@ import Button from '../components/Button'
 import SectionHeading from '../components/SectionHeading'
 import {
   CalendarCheck,
-  FileText,
   ShieldCheck,
   FolderOpen,
   AlertTriangle,
