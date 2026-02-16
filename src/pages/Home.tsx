@@ -71,7 +71,7 @@ export default function Home() {
             Home maintenance, handled.
           </h1>
           <p className="text-gray-500 text-lg sm:text-xl leading-relaxed max-w-2xl mx-auto mb-10">
-            HomeOps is a personal home manager that coordinates maintenance,
+            HomeOps is a personal home advisor that coordinates maintenance,
             organizes your home records, and gives you one point of contact for
             everything your house needs.
           </p>
@@ -188,7 +188,7 @@ export default function Home() {
       <Section bg="warm" id="benefits">
         <SectionHeading
           title="What you get with HomeOps"
-          subtitle="A dedicated home manager who handles the details so you don't have to."
+          subtitle="A dedicated home advisor that handles the details so you don't have to."
         />
 
         <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6 sm:gap-8 mb-12">
@@ -196,7 +196,7 @@ export default function Home() {
             {
               icon: UserCheck,
               title: 'One point of contact',
-              desc: 'Text, call, or email — your home manager handles the rest. No more juggling contractors yourself.',
+              desc: 'Text, call, or email — your home advisor handles the rest. No more juggling contractors yourself.',
             },
             {
               icon: ClipboardList,
@@ -456,7 +456,7 @@ export default function Home() {
 
             <ul className="text-left space-y-4 mb-10">
               {[
-                'Dedicated home manager',
+                'Dedicated home advisor',
                 'Custom maintenance plan & calendar',
                 'Scheduling, quotes & follow-up',
                 'Digital Home Binder',

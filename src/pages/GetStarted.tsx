@@ -219,7 +219,7 @@ export default function GetStarted() {
 
                 <div className="grid grid-cols-1 sm:grid-cols-2 gap-3 mb-8">
                   {[
-                    'Dedicated home manager',
+                    'Dedicated home advisor',
                     'Vendor coordination',
                     'Quote comparison',
                     'Home Binder (included)',

@@ -119,7 +119,7 @@ export default function About() {
           </h2>
           <div className="prose prose-lg max-w-none text-gray-600 leading-relaxed space-y-4">
             <p>
-              HomeOps gives you a dedicated home manager who knows your home, your
+              HomeOps gives you a dedicated home advisor that knows your home, your
               systems, your vendors, and your preferences. We don't just respond to
               problems — we anticipate them. We don't just schedule work — we
               document it, follow up on it, and make sure it's done right.
